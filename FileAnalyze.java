@@ -54,7 +54,7 @@ public class FileAnalyze extends JFrame {
 
     private void createToolBar() {
         JToolBar toolBar = new JToolBar();
-        JButton chooseFileButton = new JButton(new ImageIcon("path/to/open.png")); // Подставьте путь к иконке
+        JButton chooseFileButton = new JButton(new ImageIcon("path/to/open.png")); 
         chooseFileButton.setToolTipText("Выбрать файл");
         chooseFileButton.addActionListener(new ActionListener() {
             @Override
