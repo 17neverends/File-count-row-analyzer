@@ -1,6 +1,6 @@
 # File count row analyzer
 <br>
-Choose the *.txt file and programm will send symbols count of each row <br>
+Choose the *.txt file and programm will send symbols count of each row <br><br><br>
 
 ![image](https://github.com/17neverends/File-count-row-analyzer/assets/118381764/1e2b0d58-b727-4a49-bbee-70178e22d013)<br>
 Start<br><br>
